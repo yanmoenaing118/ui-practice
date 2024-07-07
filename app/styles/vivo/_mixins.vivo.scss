@@ -1,0 +1,30 @@
+/**
+
+sm -> max-width: 760px
+md -> max-width: 1200px
+lg -> min-width: 1201px
+
+*/
+
+@mixin lg {
+  @media screen and (min-width: 1201px) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media screen and (max-width: 1200px) and (min-width: 760.999px) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media screen and (max-width: 760px) {
+    @content;
+  }
+}
+
+@mixin container($margin) {
+  width: calc(100% - (#{$margin} * 2));
+  margin-inline: auto;
+}

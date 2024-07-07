@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "AvenirNext";
+  src: url("//asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_17c1dc8.eot"),
+    url("//asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_6b6dbe3.woff2")
+      format("woff2"),
+    url("//asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_2d26b87.woff")
+      format("woff"),
+    url("//asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_c99fe90.ttf")
+      format("truetype"),
+    url("//asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_e7a17f8.svg")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "WebRupee";
+  src: url("//asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_b9b282e.eot"),
+    url("//asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_5dc4203.woff2")
+      format("woff2"),
+    url("//asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_5bb128f.woff")
+      format("woff"),
+    url("//asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_388288f.ttf")
+      format("truetype"),
+    url("//asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_77414ca.svg")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ZAWGYI-ONE";
+  src: url("//asia-exstatic.vivoglobal.com/static/font/mm/ZAWGYI-ONE_98623fd.eot"),
+    url("//asia-exstatic.vivoglobal.com/static/font/mm/ZAWGYI-ONE_896f4d4.woff2")
+      format("woff2"),
+    url("//asia-exstatic.vivoglobal.com/static/font/mm/ZAWGYI-ONE_cbe1f40.woff")
+      format("woff"),
+    url("//asia-exstatic.vivoglobal.com/static/font/mm/ZAWGYI-ONE_1336fc8.ttf")
+      format("truetype"),
+    url("//asia-exstatic.vivoglobal.com/static/font/mm/ZAWGYI-ONE_723b08e.svg")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "languageFont";
+  src: url("https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1717492985291/522357bd28b81adfed236642e3cf6e8a.eot"),
+    url("https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1717493000962/e6df1127b32dfc87a37ea4689b92d86a.woff2")
+      format("woff2"),
+    url("https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1717493007752/7dca61fdfc034381c958d511c9fec7a1.woff")
+      format("woff"),
+    url("https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1717493028544/32f9508971c00016d9d8278a82231c3f.ttf")
+      format("truetype"),
+    url("https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1717493021291/b3bf922fbd68ea4070caa48738a0f094.svg")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.vivoFontFamily {
+  font-family: AvenirNext;
+}
